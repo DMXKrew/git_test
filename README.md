@@ -1,0 +1,1 @@
+This is Maksim’s first git project!
